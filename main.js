@@ -1,8 +1,4 @@
-const mySecret = process.env['OTY0NTA0NzQxMjIyNjc4NTc5.Gt41oq.zYNHMCC9JZ6YOy4PQfMaVfPUZUXj6NzTXaRfoE']
-// Файлы
-const { Embeds } = require(`./files/embeds`); //здесь эмбеды ЛОЛ
-const { bot } = require('./files/settings'); //здесь настройки. Sussy boy
-const prefix = bot.prefix;
+
 
 // Пакеты с говном
 const { Client, Collection, MessageEmbed, Intents } = require("discord.js");
